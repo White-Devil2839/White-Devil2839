@@ -1,150 +1,60 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Divyansh Choudhary</h1>
-<h3 align="center">Full-Stack Developer | MERN Specialist | AI/ML Enthusiast | Builder</h3>
+<!-- Banner -->
+<h1 align="center" style="color:#00eaff;">⚡ Hey, I'm <span style="color:#14ffec;">Divyansh Choudhary</span></h1>
+<h3 align="center" style="color:#b3fff6;">Full-Stack Developer • MERN Specialist • AI/ML Explorer</h3>
 
 ---
 
 ## 🚀 About Me  
-I'm a **Full-Stack Developer** and **B.Tech student in Computer Science & Artificial Intelligence** at Newton School of Technology.  
-I love building things from scratch — from **web apps to AI systems** — and I’m on a long-term mission to create an AI as advanced as **JARVIS**.
-
-I enjoy solving real problems, designing clean UI/UX, writing scalable backend systems, and constantly learning modern tech.
+I’m a **full-stack developer** and **B.Tech CSE (AI)** student who loves building real products — from advanced **MERN apps** to early prototypes of my own **JARVIS-style AI assistant**.  
+I enjoy fast execution, futuristic UI, clean code, and solving real-world problems.
 
 ---
 
-## 🧠 Current Focus  
-- Building scalable **MERN stack** applications  
-- Creating my own **conversational AI framework** from scratch  
-- Working on backend-heavy projects with **Node.js, Express, MongoDB**  
-- Working on full-stack real-world systems like **Radhe Motors showroom app**  
-- Exploring **NLP, memory-based AI systems, and voice assistants**
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-### **Frontend**
-- React.js (Vite, CRA)  
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- Responsive UI/UX Design  
-- UI Libraries: Material UI, Bootstrap  
-
-### **Backend**
-- Node.js  
-- Express.js  
-- REST API Architecture  
-- Middleware, Auth, JWT, Sessions  
-
-### **Databases**
-- MongoDB (Mongoose)  
-- PostgreSQL (Basics)  
-- Firebase (Basics)
-
-### **DevOps & Tools**
-- Git & GitHub  
-- Postman  
-- VS Code  
-- NPM & Yarn  
-- Nodemon  
-- Linux CLI / macOS Terminal  
-- Deployment: Render, Vercel, Netlify  
-
-### **AI & Machine Learning**
-- Python  
-- NLP fundamentals  
-- Conversational AI design  
-- Custom memory systems  
-- Long-term project: **Building my own AI engine**  
-
----
-
-## 📚 Education  
-**B.Tech in Computer Science & Artificial Intelligence**  
-Newton School of Technology  
-
----
-
-## 🎯 Projects  
-
-### 🔥 **Radhe Motors – Full-Stack Showroom Management System**
-Tech: React (Vite), Node.js, Express, MongoDB  
-Features:  
-- Admin dashboard  
-- Vehicle stock management  
-- Customer gallery  
-- Image & brochure uploader  
-- Payment gateway  
-- Secure admin login  
-- Dynamic UI, multiple pages  
-
-### 🤖 **Voice Assistant / AI Memory Engine (Work in Progress)**
-- Goal: Build a JARVIS-like assistant  
-- Custom NLP engine  
-- Context + memory module  
-- Personality-driven responses  
-- All components built from scratch  
-
-### 🎨 **Celebrity Fanpage Website (HTML + CSS Only)**
-- Static website  
-- Clean design  
-- College project  
-
-### 🧮 **Combinatorics & Math Experiment Playground**
-- Algorithms for points, lines, arrangements  
-- Problem-solving focus  
-
----
-
-## 🌟 Strengths & Personality  
-- Passionate about **building from scratch**  
-- Strong foundation in **logical thinking & problem-solving**  
-- Reliable, collaborative, and creative  
-- Loves experimenting with new technologies  
-- Enjoys helping others learn and grow  
-- Entrepreneurial mindset — always exploring new ideas  
-
----
-
-## 📫 Connect With Me  
-
-<p align="left">
-<a href="https://github.com/divyanshchoudhary" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/divyansh-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+## 🛠️ Tech Stack  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,git,github,postman,vscode&theme=light" />
 </p>
 
 ---
 
-## ❤️ Fun Facts  
-- I love creating futuristic, clean UI designs  
-- I enjoy late-night coding sessions  
-- I'm obsessed with AI assistants and sci-fi tech  
-- Always working on at least 2–3 side projects 😄  
+## 💼 Notable Projects  
+### 🚗 **Radhe Motors – Full-Stack Showroom System**  
+React + Node + MongoDB • Payments • Stock Mgmt • Gallery • Admin Auth  
+
+### 🤖 **Personal AI Assistant (WIP)**  
+Custom NLP engine, memory system, personality-driven responses.  
+
+### 🎨 **Celebrity Fanpage (HTML + CSS)**  
+Simple, clean static site.  
 
 ---
 
-## 🧩 What I’m Looking For  
-- Internships in **Full-Stack Development**, **AI/ML**, or **Software Engineering**  
-- Real-world projects to build end-to-end  
-- Collaborations with like-minded developers  
+## ⚡ What I’m Good At  
+- Building full-stack systems from scratch  
+- Futuristic UI, clean UX  
+- AI, NLP concepts, conversations with memory  
+- Problem-solving & logical thinking  
+- Fast learner, builder mindset  
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my work — I'm always building something new.
+## 📫 Connect With Me  
+<p align="center">
+<a href="https://github.com/divyanshchoudhary" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=14FFEC"/>
+</a>
+<a href="https://www.linkedin.com/in/divyansh-choudhary-0007divy/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=14FFEC"/>
+</a>
+</p>
 
+---
 
-<!--
-**White-Devil2839/White-Devil2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun Bits  
+✨ Night-owl coder  
+✨ Love neon cyberpunk aesthetics  
+✨ Always building something new  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="color:#14ffec;">⭐ Thanks for visiting — let’s build something futuristic.</p>
