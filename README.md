@@ -17,9 +17,27 @@ I enjoy designing real products end-to-end — from database schemas and APIs to
 ---
 
 ## 🛠️ Tech Stack  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,mysql,js,html,css,python,git,github,postman,vscode&theme=light" />
-</p>
+
+### 💻 Frontend  
+React.js • React Native • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS  
+
+### ⚙️ Backend  
+Node.js • Express.js • REST APIs • JWT Authentication • RBAC  
+
+### 🗄️ Databases & ORM  
+MongoDB • MySQL • PostgreSQL • Prisma ORM  
+
+### ☁️ DevOps & Cloud  
+AWS • Supabase • Firebase • GitHub Actions  
+
+### 🔐 Auth & Integrations  
+OAuth 2.0 • SendGrid • Postman  
+
+### 🧠 AI / Programming  
+Python • NLP Basics • AI/ML Foundations  
+
+### 🛠️ Tools  
+Git • GitHub • VS Code • Postman
 
 ---
 
@@ -66,9 +84,14 @@ I enjoy designing real products end-to-end — from database schemas and APIs to
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshchoudhary&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=White-Devil2839&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Devil2839&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
