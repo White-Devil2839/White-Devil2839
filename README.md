@@ -31,10 +31,7 @@ MongoDB • MySQL • PostgreSQL • Prisma ORM
 AWS • Supabase • Firebase • GitHub Actions  
 
 ### 🔐 Auth & Integrations  
-OAuth 2.0 • SendGrid • Postman  
-
-### 🧠 AI / Programming  
-Python • NLP Basics • AI/ML Foundations  
+OAuth 2.0 • SendGrid • Postman   
 
 ### 🛠️ Tools  
 Git • GitHub • VS Code • Postman
@@ -81,18 +78,6 @@ Git • GitHub • VS Code • Postman
 - Building scalable backend architectures  
 - Creating clean, futuristic user interfaces  
 - Rapid learning and execution mindset  
-
----
-
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=White-Devil2839&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Devil2839&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
