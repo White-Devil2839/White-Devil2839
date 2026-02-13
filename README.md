@@ -290,7 +290,7 @@ Auth:     JWT Authentication
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=White-Devil2839&theme=radical&hide_border=true&background=0d1117&stroke=14ffec&ring=14ffec&fire=14ffec&currStreakLabel=14ffec&sideNums=ffffff&sideLabels=14ffec&dates=ffffff" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=White-Devil2839&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=14FFEC&fire=14FFEC&currStreakLabel=14FFEC&stroke=14FFEC)](https://git.io/streak-stats)
 
 </div>
 
